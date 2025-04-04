@@ -1,4 +1,4 @@
-# CVEye Hunter - Local Recon Assistant (Advanced Edition)
+# CVEye Hunter - Local Recon Assistant
 
 **Author:** [kmukoo101](https://github.com/kmukoo101)  
 **License:** MIT
